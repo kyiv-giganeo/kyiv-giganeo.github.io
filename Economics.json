@@ -1,6 +1,7 @@
 {
   "Constants": [
     {
+      "Version": 1,
       "MaxPerkWeight": 10,
       "MinPerksPerItem": 2,
       "MaxPerksPerItem": 4
